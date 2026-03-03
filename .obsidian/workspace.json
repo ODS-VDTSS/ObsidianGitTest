@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-02.md",
+                "file": "Mermaid Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-02"
+              "title": "Mermaid Test"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-03-02.md",
+                "file": "Mermaid Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-02"
+              "title": "Backlinks for Mermaid Test"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-03-02.md",
+                "file": "Mermaid Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-02"
+              "title": "Outgoing links from Mermaid Test"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-03-02.md",
+                "file": "Mermaid Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-02"
+              "title": "Outline of Mermaid Test"
             }
           },
           {
@@ -199,7 +199,7 @@
   "lastOpenFiles": [
     "Untitled.base",
     "README.md",
-    "2026-03-02.md",
+    "Mermaid Test.md",
     "Additional note test.md"
   ]
 }
