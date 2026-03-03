@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"6cdf6789b7b53b43","x":-60,"y":-140,"width":160,"height":100,"color":"4","type":"text","text":"Test"},
-		{"id":"1dea6e851069a7ba","x":-260,"y":60,"width":250,"height":60,"type":"text","text":"Test 2\n"},
-		{"id":"df05a9bae6b439ec","x":100,"y":60,"width":250,"height":60,"type":"text","text":"[[Mermaid Test]]"}
+		{"id":"6cdf6789b7b53b43","type":"text","text":"Test","x":-60,"y":-140,"width":160,"height":100,"color":"4"},
+		{"id":"1dea6e851069a7ba","type":"text","text":"Test 2\n","x":-260,"y":60,"width":250,"height":60},
+		{"id":"df05a9bae6b439ec","type":"text","text":"[[Mermaid Test]]","x":40,"y":60,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9fac2da1e8767d42","fromNode":"6cdf6789b7b53b43","fromSide":"bottom","toNode":"1dea6e851069a7ba","toSide":"top"},
