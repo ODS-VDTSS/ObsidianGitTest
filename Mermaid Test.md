@@ -48,9 +48,9 @@ flowchart TD
 A(Dell WD19 Docking Station)
 A --> B(Is it plugged in?)
 
-B -->|Yes| C(Are Display/HDMI Cables Seated?]
-B -->|No| D[Plug Dock Into Power]
+B -->|Yes| C(Are Display/HDMI Cables Seated?)
+B -->|No| D(Plug Dock Into Power)
 
-C -->|Yes| E[Can Device Manager see Displays?]
-C -->|No| F[Seat them properly]
+C -->|Yes| E(Can Device Manager see Displays?)
+C -->|No| F(Seat them properly)
 ```
