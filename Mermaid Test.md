@@ -57,6 +57,7 @@ C -->|No| F(Seat them properly)
 
 E -->|No| G(Additional note test)
 
-click G "README.md"
+click G "obsidian://open?vault=ObsidianGitTest&file=README"
 
 ```
+
