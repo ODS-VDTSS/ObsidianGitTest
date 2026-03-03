@@ -45,10 +45,10 @@ F -->|No| H[Install Drivers]
 ``` mermaid
 flowchart TD
 
-A[Dell WD19 Docking Station]
-A --> B[Is it plugged in?]
+A(Dell WD19 Docking Station)
+A --> B(Is it plugged in?)
 
-B -->|Yes| C[Are Display/HDMI Cables Seated?]
+B -->|Yes| C(Are Display/HDMI Cables Seated?]
 B -->|No| D[Plug Dock Into Power]
 
 C -->|Yes| E[Can Device Manager see Displays?]
