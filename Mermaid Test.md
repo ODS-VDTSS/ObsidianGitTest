@@ -56,6 +56,6 @@ C -->|No| F(Seat them properly)
 
 E -->|No| G [[Additional note test]]
 
-Click G "Additional note test.md"
+click G "Additional note test.md"
 
 ```
