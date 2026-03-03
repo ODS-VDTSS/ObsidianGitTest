@@ -57,6 +57,6 @@ C -->|No| F(Seat them properly)
 
 E -->|No| G(Additional note test)
 
-click G "Folder Test/Additional note test.md"
+click G "README.md"
 
 ```
