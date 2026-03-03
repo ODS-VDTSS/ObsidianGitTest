@@ -43,6 +43,7 @@ F -->|No| H[Install Drivers]
 
 
 ``` mermaid
+%%{init: {"securityLevel":"loose"}}%%
 flowchart TD
 
 A(Dell WD19 Docking Station)
