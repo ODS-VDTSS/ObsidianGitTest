@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mermaid Test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -197,8 +197,9 @@
   },
   "active": "fb490898e9c99433",
   "lastOpenFiles": [
-    "Additional note test.md",
+    "Folder Test/Note in Folder test.md",
     "Mermaid Test.md",
+    "Additional note test.md",
     "Untitled.base",
     "README.md"
   ]
