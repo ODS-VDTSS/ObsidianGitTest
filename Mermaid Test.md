@@ -53,4 +53,6 @@ B -->|No| D(Plug Dock Into Power)
 
 C -->|Yes| E(Can Device Manager see Displays?)
 C -->|No| F(Seat them properly)
+
+E -->|No| G((Additional note ))
 ```
