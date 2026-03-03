@@ -54,8 +54,8 @@ B -->|No| D(Plug Dock Into Power)
 C -->|Yes| E(Can Device Manager see Displays?)
 C -->|No| F(Seat them properly)
 
-E -->|No| G [[Additional note test]]
+E -->|No| G (Additional note test)
 
-click G "Additional note test.md"
+click G "Folder Test/Additional note test.md"
 
 ```
