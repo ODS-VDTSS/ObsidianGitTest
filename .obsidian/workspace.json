@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled 1.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 45,
+                  "y": -10,
                   "zoom": 0
                 }
               },
@@ -200,11 +200,11 @@
   },
   "active": "fb490898e9c99433",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Mermaid Test.md",
     "Untitled 1.canvas",
+    "Untitled.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Mermaid Test.md",
     "Folder Test/Note in Folder test.md",
     "Additional note test.md",
     "README.md"
